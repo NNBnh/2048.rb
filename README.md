@@ -11,7 +11,7 @@
 
 ## ⌨️ Usage
 
-Download the file below then load it in `irb`:
+Download [the file](https://github.com/NNBnh/2048.rb/blob/main/game2048.rb) then load it in `irb`:
 
 ```rb
 require_relative "path/to/game2048"
