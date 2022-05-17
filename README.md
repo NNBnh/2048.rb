@@ -1,6 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/167422832-8955fab1-eaa4-4754-80c4-724fb94af932.png"></p>
 <p align="center">But in Ruby</p>
-
+<p align="center">
+  <a href="https://github.com/NNBnh/2048.rb/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/2048.rb?labelColor=B3475B&color=DE5D6E&style=for-the-badge" alt="License: GPL-3.0"></a>
+  <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23DE5D6E.svg?labelColor=B3475B&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a>
+</p>
 
 ## 🧾 Dependencies
 
